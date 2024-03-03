@@ -59,6 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RAHULRNAIR2000/RAHULRNAIR2000/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
