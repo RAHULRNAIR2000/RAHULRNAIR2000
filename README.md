@@ -1,12 +1,12 @@
-<h3 align="left">Hi there! My name is Rahul R Nair and I am a Fullstack developer from India.</h3>
+<h3 align="center">Hi there! My name is Rahul R Nair and I am a Fullstack developer from India.</h3>
 
 ###
 
-<h4 align="left">Tech stacks that i am familiar with</h4>
+<h4 align="center">Tech stacks that i am familiar with</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -39,11 +39,11 @@
 
 ###
 
-<h4 align="left">Connect with me</h4>
+<h4 align="center">Connect with me</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/rahulrnair2245/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -56,11 +56,11 @@
 
 ###
 
-<h4 align="left">Stats</h4>
+<h4 align="center">Stats</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHULRNAIR2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RAHULRNAIR2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRNAIR2000&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -69,6 +69,8 @@
 ###
 
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ###
